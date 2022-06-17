@@ -9,6 +9,8 @@ theme:
     scheme: slate
     primary: cyan
     accent: teal
+  logo: images/projectsegfault1.png
+  favicon: images/projectsegfault1.png
   features:
     - navigation.tracking # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#anchor-tracking
     - navigation.expand # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion
