@@ -1,0 +1,16 @@
+site_name: Project Segfault Wiki
+site_url: https://wiki.projectsegfau.lt
+site_author: The Project Segfault Members
+site_description: >-
+  The Project Segfault Wiki
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: cyan
+    accent: teal
+  features:
+    - navigation.tracking # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#anchor-tracking
+    - navigation.expand # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion
+    - navigation.top # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#back-to-top-button
+copyright: Copyright 2021-2022 Project Segfault.
