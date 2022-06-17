@@ -16,3 +16,9 @@ theme:
     - navigation.expand # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion
     - navigation.top # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#back-to-top-button
 copyright: Copyright 2021-2022 Project Segfault.
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ProjectSegfault/Wiki
+    - icon: fontawesome/solid/globe
+      link: https://projectsegfau.lt
